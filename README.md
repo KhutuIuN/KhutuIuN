@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![KhutuluN's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhutuluN)](https://github.com/KhutuluN/github-readme-stats)
